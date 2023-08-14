@@ -1,1 +1,0 @@
-{"uuid":"4b7b23c5-5c50-4171-adb7-44a7e15a0f33","name":"Should successful plan and plan meeting","children":["2d93e535-4506-4d9f-9f3a-5a0c66b784e0"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1691421228185,"stop":1691421240729}],"afters":[],"start":1691421227928,"stop":1691421241268}
