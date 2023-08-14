@@ -1,0 +1,1 @@
+{"uuid":"30216dc4-d012-44a2-8a40-0d96ce575850","name":"buyNegativeCvv2Symbols()","children":["8b3e2361-caa9-478e-be2b-a5a844177f5b"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692050270895,"stop":1692050270942}],"start":1692050269117,"stop":1692050270944}
