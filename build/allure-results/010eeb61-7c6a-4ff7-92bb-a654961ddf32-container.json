@@ -1,1 +1,0 @@
-{"uuid":"010eeb61-7c6a-4ff7-92bb-a654961ddf32","name":"buyNegativeYearUnderThisYear()","children":["f84be22a-71a6-473e-b481-c053d03acf16"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692050218574,"stop":1692050218624}],"start":1692050216784,"stop":1692050218626}

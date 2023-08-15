@@ -1,0 +1,1 @@
+{"uuid":"3dca95d6-0004-4ea3-9982-b8ebc57b226e","name":"buyNegativeOwnerNumeric()","children":["665e546d-9b0b-44b8-bfb6-1d8e75001a62"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692104942227,"stop":1692104942342}],"start":1692104935843,"stop":1692104942351}

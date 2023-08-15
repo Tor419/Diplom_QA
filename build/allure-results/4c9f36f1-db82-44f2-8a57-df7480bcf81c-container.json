@@ -1,1 +1,0 @@
-{"uuid":"4c9f36f1-db82-44f2-8a57-df7480bcf81c","name":"buyNegativeMonthOver12()","children":["b66f1af4-c59a-4fee-bf2f-4b9dcf9c94bb"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692050212642,"stop":1692050212693}],"start":1692050210737,"stop":1692050212696}

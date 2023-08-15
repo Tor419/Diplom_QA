@@ -1,0 +1,1 @@
+{"uuid":"dca934dd-aac8-4ad4-aaab-bf4eb63f783f","name":"buyNegativeMonth00ThisYear()","children":["26174fa0-8484-4449-bb33-71826da81362"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692104971230,"stop":1692104971282}],"start":1692104969545,"stop":1692104971284}

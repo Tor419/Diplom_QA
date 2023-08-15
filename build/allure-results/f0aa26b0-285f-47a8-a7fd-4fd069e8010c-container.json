@@ -1,1 +1,0 @@
-{"uuid":"f0aa26b0-285f-47a8-a7fd-4fd069e8010c","name":"buyNegativeNumberCard15Symbols()","children":["59944c0b-6963-4f75-8dfd-c3769d501c2f"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692050226438,"stop":1692050226480}],"start":1692050224549,"stop":1692050226483}

@@ -1,1 +1,0 @@
-{"uuid":"c4acf69b-fff3-4457-ae5f-cd120f8050f9","name":"creditNegativeOwnerNumeric()","children":["ce84d2ed-d6b9-4b8d-bf1e-30c006303c41"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692050127061,"stop":1692050127110}],"start":1692050120667,"stop":1692050127118}

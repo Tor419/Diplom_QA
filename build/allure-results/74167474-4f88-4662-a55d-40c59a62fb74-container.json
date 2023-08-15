@@ -1,0 +1,1 @@
+{"uuid":"74167474-4f88-4662-a55d-40c59a62fb74","name":"creditNegativeMonth00ThisYear()","children":["89698686-a2f0-4001-9235-552bf09327de"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692104870227,"stop":1692104870299}],"start":1692104867892,"stop":1692104870301}

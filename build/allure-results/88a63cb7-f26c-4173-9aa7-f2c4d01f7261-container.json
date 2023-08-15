@@ -1,0 +1,1 @@
+{"uuid":"88a63cb7-f26c-4173-9aa7-f2c4d01f7261","name":"buyPositiveAllFieldValidApproved()","children":["62a86f44-37f4-415b-baec-419dc2e72eff"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1692105001143,"stop":1692105004592}],"start":1692104995963,"stop":1692105004595}
